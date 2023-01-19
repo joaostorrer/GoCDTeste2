@@ -1,0 +1,5 @@
+%syntax-version=1.0.0
+%project=gocd-teste
+%uri=https://github.com/tecnoage-curitiba/GoCDTeste
+
+Procedures/bla 2023-01-19T13:57:21Z Joao Filipe Cavichiolo Storrer <joao@tecnoage.com.br> # Cria a procedure bla
