@@ -24,7 +24,7 @@ pipelines:
             timeout: 0
             run_instances: all
             secure_variables:
-              CREDENCIAIS: AES:NTCvWhGp1LSjgTCUCldnFw==:ifqQv+H6PwA12WJkdnGI4exoCqIiAz7fo7bvyjHGF5g=
+              CREDENCIAIS: AES:phMubi3tVPr8R5BhyPECMQ==:4ddjoE7VmoQNCZyuBi7TxjquB4iyknStLRaNAqIahTc=
             tasks:
             - exec:
                 arguments:
